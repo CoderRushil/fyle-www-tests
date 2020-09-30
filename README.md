@@ -1,4 +1,4 @@
-# fyle-www-tests
+# fyle-www-tests - An Amazing project
 
 This repository contains tests for Fyle's website (https://www.fylehq.com). This is under active development.
 This is a public repository - please do not check in any passwords or keys.
